@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Temporary Agent Scripts (Do not commit)
+add_scaling.py
+append_modeling.py
+predict_test.py
+evaluate_models.py
+markdown_dump.txt
+encode_code.txt
+extraction_code.txt
+results.txt
+catboost_info/
+
+# Optional: Uncomment if you do not want to upload large CSVs
+# *.csv
